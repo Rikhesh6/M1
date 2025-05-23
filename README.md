@@ -223,7 +223,7 @@ int main()
     }
 
     printf("Total Marks = %d\n", total);
-    printf("Percentage = %.2f%%\n", percentage);
+    printf("Percentage = %.2f%\n", percentage);
 
     return 0;
 }
