@@ -230,7 +230,7 @@ int main()
 ```
 
 ## OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/919bad22-5dd8-47bb-9d19-65936ffe7b59)
 
 
 ## RESULT:
